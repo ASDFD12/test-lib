@@ -1,0 +1,5 @@
+/*
+ * Public API Surface of my-lib
+ */
+export * from './lib/Messanger';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL215LWxpYi9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsaUJBQWlCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG15LWxpYlxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL01lc3Nhbmdlcic7XG5cbiJdfQ==
