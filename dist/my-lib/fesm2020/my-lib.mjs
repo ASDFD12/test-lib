@@ -2,6 +2,9 @@ class Messanger {
     Message(msg) {
         return msg;
     }
+    Test(num) {
+        return num;
+    }
 }
 
 /*
