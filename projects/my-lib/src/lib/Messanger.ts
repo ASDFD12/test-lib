@@ -8,6 +8,10 @@ export class Messanger
     {
         return num;
     }
+    public TestThree(num : string) : string
+    {
+        return num;
+    }
     
 
 }

@@ -5,6 +5,9 @@ class Messanger {
     Test(num) {
         return num;
     }
+    TestThree(num) {
+        return num;
+    }
 }
 
 /*
