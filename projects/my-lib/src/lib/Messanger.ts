@@ -13,5 +13,10 @@ export class Messanger
         return num;
     }
     
+    public TestFour(num : string) : string
+    {
+        return num;
+    }
+    
 
 }

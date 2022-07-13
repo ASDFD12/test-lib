@@ -8,6 +8,9 @@ class Messanger {
     TestThree(num) {
         return num;
     }
+    TestFour(num) {
+        return num;
+    }
 }
 
 /*
